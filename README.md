@@ -75,3 +75,5 @@ npm run dev
 ```
 
 Open your browser and access http://localhost:5173 (or the port indicated in the terminal) to see the application.
+
+To view:
